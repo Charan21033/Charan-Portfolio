@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-Commerce Website ",
+    "imageSrc": "projects/E-commerece.png",
+    "description": "It is full stack shopping MERN Project which includes JWT Autentication, Razorpay Payment method, MATERIAL UI and many.",
+    "skills": ["React", "Express", "Node","Redux","MAterial UI","Mongo DB","Tailwind css"],
+    "demo": "https://main--rcbn-enterprise.netlify.app",
+    "source": "https://github.com/Charan21033/E-commere-RCBN"
+  },
+  {
+    "title": "Chat APP",
+    "imageSrc": "projects/chat-app.png",
+    "description": "This project is Chat App using React and Firebase which is a Realtime Private Chat Application ",
+    "skills": ["React", "FireBase",  "Sass"],
+    "demo": "http://robinhood.42web.io/",
+    "source": "https://github.com/Charan21033/Chat-App-Robin-Hood-"
+  },
+  {
+    "title": "AppCollection",
+    "imageSrc": "projects/appProject.png",
+    "description": "The collection Has , SECRET- APP,  DICE-GAME APP,  TO-DO-List,  QR-CODE-GENERATOR",
+    "skills": ["React", "Express", "Node","EJS"],
+    "demo": "http://robin-dice-app.wuaze.com/",
+    "source": "https://github.com/Charan21033?tab=repositories"
+  }
+]
